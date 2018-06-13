@@ -4,7 +4,7 @@ This implemenation consists of two clustering algorithms: K-means and Gaussian M
 
 # Usage
 1. K-means
-To compile the K-mean implementation, please use the following command:
+To compile the K-mean implementation, please use the following command: /
 clang++ -std=c++11 -stdlib=libc++ main.cpp Kmeans.cpp (Please make sure that you have c++11 or later compiler in your computer)
 
 To run the implementation, you can run:
